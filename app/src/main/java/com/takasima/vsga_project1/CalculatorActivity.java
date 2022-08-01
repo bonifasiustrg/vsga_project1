@@ -15,6 +15,7 @@ public class CalculatorActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculator);
 
+        getSupportActionBar().setTitle("Aplikasi Kalkulator");
         EditText number1 = findViewById(R.id.number1);
         EditText number2 = findViewById(R.id.number2);
         Button btnPlus = findViewById(R.id.btn_plus);

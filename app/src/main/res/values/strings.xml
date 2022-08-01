@@ -3,4 +3,18 @@
     <string name="about_text">Hi, I am Bonifasius Tarigan \nKelas JMP-A \nTelkom University</string>
     <string name="angka1">Masukkan Angka Pertama</string>
     <string name="angka2">Masukkan Angkav Kedua</string>
+
+    <string-array name="arrCountry">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+        <item>Filipina</item>
+        <item>Singapura</item>
+        <item>Timor Leste</item>
+        <item>Kamboja</item>
+        <item>Laos</item>
+        <item>Brunei Darussalam</item>
+        <item>Myanmar</item>
+    </string-array>
 </resources>
