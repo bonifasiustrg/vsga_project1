@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">vsga_project1</string>
-    <string name="about_text">Hi, I am Bonifasius Tarigan \nKelas JMP-A \nTelkom University</string>
+    <string name="about_text">Halo, saya Bonifasius Tarigan \nKelas JMP-A \nTelkom University</string>
     <string name="angka1">Masukkan Angka Pertama</string>
-    <string name="angka2">Masukkan Angkav Kedua</string>
+    <string name="angka2">Masukkan Angka Kedua</string>
 
     <string-array name="arrCountry">
         <item>Indonesia</item>
